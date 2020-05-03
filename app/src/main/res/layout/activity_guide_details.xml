@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingBottom="@dimen/first_ll_padding_bottom">
+        <TextView
+            android:id="@+id/general_name_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/general_name"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/first_ll_textview1_margin_top"
+            android:textStyle="bold"/>
+        <ImageView
+            android:id="@+id/guide_image"
+            android:layout_width="@dimen/guide_image_width"
+            android:layout_height="@dimen/guide_image_height"
+            tools:src="@drawable/sevenbone2"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/first_ll_imageview_margin_top"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/imagedescription"
+            android:adjustViewBounds="true"/>
+        <TextView
+            android:id="@+id/description_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/description"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="@dimen/first_ll_textview2_margin_top"/>
+
+        <TextView
+            android:id="@+id/key_information_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/imagedescription"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="@dimen/first_ll_textview1_margin_top"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/address_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/address"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="@dimen/first_ll_textview2_margin_top"/>
+
+        <TextView
+            android:id="@+id/contact_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/contact"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            />
+
+        <TextView
+            android:id="@+id/open_times_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/open_times"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="@dimen/first_ll_textview2_margin_top"/>
+    </LinearLayout>
+</ScrollView>

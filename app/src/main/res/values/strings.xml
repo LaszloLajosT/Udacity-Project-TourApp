@@ -1,0 +1,139 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">TourApp</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Food</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_pubs">Drink</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="imagedescription">Image description</string>
+    <string name="general_name">Rockefeller</string>
+    <string name="description">The best pizza in Bournemouth, made by hand using quality fresh ingredients.
+With daily prepared dough and cooked in a traditional wood fired oven.
+You can book a table or place a collection order on 01202 555125. We also offer delivery within 3 miles from £1 – see details here.
+
+01202 555125 • order@bournemouthpizza.co.uk</string>
+    <string name="key_information">Key Information:</string>
+    <string name="address">44 St. Swithuns Road
+Bournemouth
+BH1 3RJ</string>
+    <string name="contact"> 01202 555125</string>
+    <string name="open_times"> Opening Hours
+MONDAY - SUNDAY
+12pm - 2.30pm
+5pm - 10.30pm</string>
+
+    <string name="key_position">position</string>
+
+    <!-- First pub's information -->
+    <string name="drink_name1">Revolution Bournemouth</string>
+    <string name="drink_description1">Food and drinks by the sea. Welcome to Bournemouth’s best-loved cocktail bar and restaurant, serving up amazing cocktails, food and an unrivalled selection of premium spirits, beers, wines and ciders. Located on Old Christchurch Road in the centre of town, Revolution Bournemouth offers a relaxed and comfortable atmosphere with two unique bars to choose from. Step inside and experience luxury interiors with plush seating and bookable areas – if you really wanna feel like a VIP! For day time dining or late night partying, it’s the place to be.</string>
+    <string name="drink_address1">163-167 Old Christchurch Rd,Bournemouth,BH1 1JU</string>
+    <string name="drink_phone1">01202-232132</string>
+    <string name="drink_open_times1">FRIDAY - SATURDAY: 12:00pm - 3:00am,SUNDAY: 12:00pm - 12:00am</string>
+
+    <!-- Second pub's information -->
+    <string name="drink_name2">Sixty Million Postcards</string>
+    <string name="drink_description2">\" OUR STORY: Ecletic and discerning music venue for those that know Bournemouth institution 60 Million Postcards was born in 2006 when the town’s post office finally ran out of space to keep all the returned mail and decided to create a bar to store them in, if you count very carefully you can see them all on the wall, since our refurbishment in February `18 we had to throw a few away but we’re on the hunt for new ones so definitely do send us one, they’re gratefully received! Front and Centre is Bournemouth’s sunniest Beer Garden, we also continue to host the finest in new live music, DJ’s and a quiz that has become legendary in its own right. We also take in smattering of local arts, clothes and craft fairs. Our Food is legendary, making burgers and (the best) fried chicken our Lunch and Supper counter fulfils food fantasies every day. We have an ever changing array of craft beer, ales and cocktails as well as a carefully selected lager, wine and bottled range. A true master of all trades, we are the best pub in Bournemouth to eat, hang out, drink and party into the night.\"</string>
+    <string name="drink_address2">19–21 Exeter Rd,Bournemouth,BH2 5AF</string>
+    <string name="drink_phone2">01202–292697</string>
+    <string name="drink_open_times2">MONDAY - THURSDAY: Midday - Midnight,FRIDAY - SUNDAY: Midday - 2am</string>
+
+    <!-- First restaurant's information -->
+    <string name="food_name1">Bournemouth Pizza</string>
+    <string name="food_description1">\" The best pizza in Bournemouth, made by hand using quality fresh ingredients. With daily prepared dough and cooked in a traditional wood fired oven. You can book a table or place a collection order on 01202 555125. We also offer delivery within 3 miles from £1 – see details here.\n\"</string>
+    <string name="food_address1">44 St. Swithuns Road,Bournemouth,BH1 3RJ</string>
+    <string name="food_phone1">01202–555–125</string>
+    <string name="food_open_times1">MONDAY - SUNDAY,12pm - 2.30pm,5pm - 10.30pm</string>
+
+    <!-- Second restaurant's information -->
+    <string name="food_name2">7 Bone Burgers</string>
+    <string name="food_description2">All our burgers are cooked medium (pink) as standard. We have a comprehensive food safety system designed to protect your health and allow you freedom of choice when choosing your patty doneness. We advise pregnant ladies, the elderly and the unwell to request well-done. For full allergen information, please copy and paste the below URL into your browser: https://7bone.co.uk/dinner.php and click on the relevant menu item. Our food is freshly prepared in small kitchens that handle allergens. Although that all precautions are taken to avoid cross-contamination we can’t guarantee that our food and drinks are allergen-free. Any questions - please call us in the restaurant.</string>
+    <string name="food_address2">9 Gervis Place,Bournemouth,Dorset,BH1 2AN</string>
+    <string name="food_phone2">01202 559134</string>
+    <string name="food_open_times2">SUN - THURS: 12pm - 11pm,FRI - SAT: 12pm - 12am</string>
+
+    <!-- Third restaurant's information -->
+    <string name="food_name3">Bournemouth Stable</string>
+    <string name="food_description3">You\'ll easily find us along Westover Road, just inside the Lower Gardens in the heart of Bournemouth. A celebration of the best of the West Country, we offer 80+ varieties of cider, handmade pizzas and pies, featuring carefully sourced English ingredients and artisan toppings. We\'ve got lunch, kids\', bar and dinner menus, plus we\'re family- and dog-friendly to boot.</string>
+    <string name="food_address3">Westover Road,Bournemouth,Dorset,BH1 2BU</string>
+    <string name="food_phone3">01202 311 684</string>
+    <string name="food_open_times3">MONDAY - THURSDAY: Midday - 11.00pm,FRIDAY - SATURDAY: Midday - 11.30pm, SUNDAY: 11.30am - 11.00pm</string>
+
+    <!-- First program's information -->
+    <string name="event_name1">Bournemouth Bay Run</string>
+    <string name="event_description1">Whatever your running ability – fun or competitive, there’s a race for you on 5th April 2020.\n\nWhen you run for us, you run to beat the world’s biggest killers. Conditions like heart diseases, stroke and vascular dementia. You run for the people you love. You run for mums, for dads, for brothers, for sisters, for friends, for loved ones. You run to fund research that helps to keep families together. One life saving breakthrough at a time. Champions like you have helped get us this far – heart transplants, clot busting drugs, genetic testing and so much more. So join us for the Bournemouth Bay Run, and fix your eyes on the finish line. Because together, we can beat heartbreak forever. #BHFChampion</string>
+    <string name="event_address1">Pier Approach,Bournemouth,BH2 5AA</string>
+    <string name="event_phone1">01202–451718</string>
+    <string name="event_open_times1">MONDAY – FRIDAY: 09:00 – 17:00</string>
+
+    <!-- Passing Intent information -->
+    <string name="activity_name">activity_name</string>
+
+    <!-- First place to visit  information -->
+    <string name="place_name1">Hengistbury Head</string>
+    <string name="place_description1">Hengistbury Head is a great place to bring the whole family. Take the land train for gentle and easy access to Mudeford Sand spit, then enjoy the view with a cup of tea and a slice of cake, or something more substantial in one of the cafes. If adventure is more your thing, you could take a course with the Outdoor Education Centre or enjoy the spectacular views, earned with a little effort, from the top of Warren Hill. Whatever your plans for the day, the friendly staff and volunteers at the Visitor Centre will help you make the most of your visit..</string>
+    <string name="place_address1">Broadway,Southbourne,Bournemouth,BH6 4EW</string>
+    <string name="place_phone1">01202-451618</string>
+    <string name="place_open_times1">MONDAY - SUNDAY: 10:00 - 17:00</string>
+
+    <!-- Second place to visit  information -->
+    <string name="Event_name2">Bournemouth Pier</string>
+    <string name="place_description2">\"et in the middle of ten miles of golden sand, Bournemouth Pier is the destination of choice for thousands of families every year.\n" +
+                "\n" +
+                "As well as stunning views across the bay, framed by the Isle of Wight on one side and the Purbeck hills on the other, Bournemouth Pier also boasts a wide and varied selection of attractions, entertainments and retail outlets to make any visit to Bournemouth memorable.\n" +
+                "\n" +
+                "At the entrance of the pier is the Pier Amusements Family Entertainment Centre. Here you will find a wide range of entertainment machines and all of the most up-to-date videos and prizes.\n" +
+                "\n" +
+                "RockReef presents the first pier to shore zip wire! Located at the very end of the Bournemouth Pier and the first of its kind in the world, the PierZip is an experience not to be missed. The RockReef Adventure Activity Centre is also located on the pier and features a wide variety of fun climbing challenges using the Clip ‘n Climb concept, the Pier Cave adventure that includes 3 different levels of challenge and the HighLine aerial obstacle course.\n" +
+                "\n" +
+                "Key West bar and grill, with its wide and varied menu is open all year round serving hot food. Aruba Bar and Restaurant is located above the pier providing beautiful sea views. There are a number of shops where you can buy ice creams, pasties and souvenirs! \n" +
+                "\n" +
+                "Fishing permits are available per day or with a season pass to fish from the west landing stage of the Pier. Please contact the Tourist Information Centre or the Pier toll booth for information on obtaining a permit."</string>
+    <string name="place_address2">Pier Approach,Bournemouth,BH2 5AA</string>
+    <string name="place_phone2">01202–925825</string>
+    <string name="place_open_times2">MONDAY – SUNDAY: 09:00 – 16:00</string>
+    <string name="food_fragment">FoodFragment</string>
+    <string name="drink_fragment">DrinkFragment</string>
+    <string name="place_fragment">PlaceFragment</string>
+    <string name="event_fragment">EventsFragment</string>
+    <string name="test_text_view">test one</string>
+    <string name="test_text_view2">test two</string>
+
+
+    <string-array name="my_string_array">
+        <item>R.drawable.revolution1</item>
+        <item>R.drawable.revolution2</item>
+        <item>Revolution Bournemouth</item>
+        <item>Food and drinks by the sea. Welcome to Bournemouth’s best-loved cocktail bar and restaurant, serving up amazing cocktails, food and an unrivalled selection of premium spirits, beers, wines and ciders. Located on Old Christchurch Road in the centre of town, Revolution Bournemouth offers a relaxed and comfortable atmosphere with two unique bars to choose from. Step inside and experience luxury interiors with plush seating and bookable areas – if you really wanna feel like a VIP! For day time dining or late night partying, it’s the place to be.</item>
+        <item>163-167 Old Christchurch Rd,Bournemouth,BH1 1JU</item>
+        <item>01202-232132</item>
+        <item>FRIDAY - SATURDAY: 12:00pm - 3:00am,SUNDAY: 12:00pm - 12:00am</item>
+    </string-array>
+
+</resources>
