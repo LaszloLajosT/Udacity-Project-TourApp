@@ -22,3 +22,9 @@ For this project, you'll be making a Tour Guide app. This is an app with multipl
 Once you've decided on the location you'd like to show off, you'll want to build the structure of your app. Using the skills from the Miwok app, you'll make multiple screens, each containing a list. You will use a ViewPager plus TabLayout (or Navigation Drawer) combined with Fragments to move between screens. 
 
 Next, you'll fill in those lists with list items, populated using a custom adapter. It may make sense for some lists to include information such as a phone number or business hours, but for others it may make more sense to have a photograph. Design your adapter based on the information you would like to show. 
+
+Restaurants             |  Pubs
+:-------------------------:|:-------------------------:
+<img src="screenshots/screenshot1.png" width="394" height="552" />| <img src="screenshots/screenshot2.png" width="394" height="552" />
+Places to visit             |  Programs/Events
+<img src="screenshots/screenshot3.png" width="394" height="552" />| <img src="screenshots/screenshot4.png" width="394" height="552" />
