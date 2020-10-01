@@ -19,6 +19,8 @@ import android.os.Bundle;
 
 import com.google.android.material.tabs.TabLayout;
 
+import java.util.Objects;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
@@ -52,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.event };
 
         for (int i = 0; i < imageResId.length; i++) {
-            tabLayout.getTabAt(i).setIcon(imageResId[i]);
+            Objects.requireNonNull(tabLayout.getTabAt(i)).setIcon(imageResId[i]);
         }
     }
 }
